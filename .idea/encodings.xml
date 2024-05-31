@@ -4,5 +4,6 @@
     <file url="file://$PROJECT_DIR$/GymMembers/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/GymServices/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Service-registry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-gateway/src/main/java" charset="UTF-8" />
   </component>
 </project>
